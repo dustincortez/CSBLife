@@ -1,0 +1,8 @@
+http://gamedev.stackexchange.com/questions/14309/how-to-develop-rpg-damage-formulas
+
+
+"How to develop RPG Damage Formulas?"
+
+	It became interesting topic for me because we all know that most of the games use damage stats to identify the strength of the players who are playing a specific game like Final Fantasy X, RPG games, etc. 
+
+	They say that when you formulate a formula, math subject specifically Algebra and pre-Calculus is the most important things or factors in creating a formula because all of the formulas need equations and solutions just to end up to an excellent result. They say that it is like using linear eqauations, logarithmic method in doing stats especially in damage stats becaus all of them needs MATH.
